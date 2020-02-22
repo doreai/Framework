@@ -7,7 +7,7 @@
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
- <dependencies>
+  <dependencies>
    <dependency>
       <groupId>com.dore</groupId>
       <artifactId>coreai</artifactId>
@@ -23,7 +23,7 @@
     <dependency>
       <groupId>org.tensorflow</groupId>
       <artifactId>tensorflow-lite-gpu</artifactId>
-      <version>0.0.0-nightly</version>
+      <version>2.1.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
