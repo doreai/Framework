@@ -7,7 +7,7 @@
   <version>1.0.2</version>
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
-    <dependencies>
+   <dependencies>
    <dependency>
       <groupId>com.dore</groupId>
       <artifactId>coreai</artifactId>
